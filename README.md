@@ -11,6 +11,7 @@ Replaced gedit with gvim. Make sure you source ~/.bashrc in all their currently 
 Do you feel bad? Fine...
 
     sudo apt-get install --reinstall gedit
+    #then remove the `alias gedit=gvim` from their ~/.bashrc
 
 Weak.
 
